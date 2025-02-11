@@ -1,2 +1,3 @@
 #!/bin/bash
- ls -la tmp/iamafile 
+:wq
+cp /bin/bash /tmp/iamafile ; file /tmp/iamafile
